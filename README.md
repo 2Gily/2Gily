@@ -1,4 +1,5 @@
-# Hi there, Wellcome Gily's GitHub👋
+  <div align="center">
+  # Hi there, Wellcome Gily's GitHub👋
 
   [![2Gily Stat](https://github-readme-stats.vercel.app/api?username=2Gily&show_icons=true&theme=dark)](https://github.com/2Gily/)
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2gily)](https://github.com/2Gily/)-->
@@ -22,6 +23,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
   </br>
+  </div>
   
   ---
   <div align="center">
