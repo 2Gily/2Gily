@@ -1,13 +1,11 @@
 
   [![2Gily Stat](https://github-readme-stats.vercel.app/api?username=2Gily&show_icons=true&?theme=dark)](https://github.com/2Gily/)
-### <div align="left">Hi there, Wellcome Gily's GitHub👋</div><br>
+### <div align="left">Hi there, Wellcome Gily's GitHub👋</div>
 * I'm Positive Developer :smile:
 * I live in Seoul, South Korea :kr:
 * I'm looking for a job :running:
 * BOJ solve.ac
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlfgud91">  
-
-    
 
 #### :mailbox:<strong>Conatact</strong>
 * [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlfgud91@gmail.com)](mailto:rlfgud91@gmail.com)
