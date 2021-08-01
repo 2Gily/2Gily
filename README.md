@@ -1,16 +1,14 @@
-  <div align="center">
+ 
   # Hi there, Wellcome Gily's GitHub👋
-
   [![2Gily Stat](https://github-readme-stats.vercel.app/api?username=2Gily&show_icons=true&theme=dark)](https://github.com/2Gily/)
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2gily)](https://github.com/2Gily/)-->
 
 
   ### INTRODUCE 💻
-  * <strong>I'm Positive Developer</strong> :smile:
-  * <strong>I live in Seoul, South Korea</strong> :kr:
-  * <strong>I'm looking for a job</strong> :running:
-  * [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlfgud91)](https://solved.ac/rlfgud91)
-
+  - <strong>I'm Positive Developer</strong> :smile:
+  - <strong>I live in Seoul, South Korea</strong> :kr:
+  - <strong>I'm looking for a job</strong> :running:
+  - [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlfgud91)](https://solved.ac/rlfgud91)
   
   ### My Stack ⭐⭐⭐
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -23,7 +21,6 @@
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
   </br>
-  </div>
   
   ---
   <div align="center">
