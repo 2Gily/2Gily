@@ -10,7 +10,7 @@
   - <strong>I'm looking for a job</strong> :running:
   - [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlfgud91)](https://solved.ac/rlfgud91)
   
-  ### My Stack ⭐⭐⭐
+  ### My Stack 📖
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
