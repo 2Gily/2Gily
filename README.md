@@ -7,7 +7,6 @@
   ### ▶INTRODUCE 💻
   - <strong>I'm Positive Developer</strong> :smile:
   - <strong>I live in Seoul, South Korea</strong> :kr:
-  - <strong>I'm looking for a job</strong> :running:
   - [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlfgud91)](https://solved.ac/rlfgud91)
   
   ### ▶My Stack 📖
